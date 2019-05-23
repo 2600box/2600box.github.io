@@ -3345,31 +3345,7 @@ ul .invitetree {margin: 0px 0px 0px 25px;}
 /* ************* Clans ************ */
 /* ******************************** */
 
-#clans .large_progress_bar .main_bar {
-	display: inline-block;
-	border-radius: 0px;
-	animation: none;
-}
-#clans .large_progress_bar .main_bar.clan_1_bar {
-	border-top-left-radius: 20px;
-	border-bottom-left-radius: 20px;
-	background-color: rgb(106, 64, 40);
-	background-image: linear-gradient(to top, rgb(106, 64, 40), rgb(147, 109, 96));
-}
-#clans .large_progress_bar .main_bar.clan_2_bar {
-	background-color: rgb(107, 107, 107);
-	background-image: linear-gradient(to top, rgb(107, 107, 107), rgb(232, 232, 232));
-}
-#clans .large_progress_bar .main_bar.clan_3_bar {
-	background-color: rgb(244, 66, 66);
-	background-image: linear-gradient(to top, rgb(244, 66, 66), rgb(253, 235, 0));
-}
-#clans .large_progress_bar .main_bar.clan_4_bar {
-	border-top-right-radius: 20px;
-	border-bottom-right-radius: 20px;
-	background-color: rgb(21, 109, 226);
-	background-image: linear-gradient(to top, rgb(21, 109, 226), rgb(90,233,255));
-}
+
 
 /* ******************************** */
 /* * Item/Equip/Crafting Managers * */
